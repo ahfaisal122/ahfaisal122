@@ -11,5 +11,5 @@
 - 🔭 I'm currently working on **KPI frameworks, Snowflake data warehousing, and automated ETL workflows**
 - 🌱 I'm currently expanding my focus into **Advanced Data Management, Distributed Systems, and AI-integrated analytics**
 - 🌟 I'm looking to collaborate on **open-source data tools, analytical dashboards, and data pipeline projects**
-- 💬 Ask me about **Data Modeling, SQL querying, Power BI & DAX, Snowflake, Alteryx, or Python for Data Analysis**[cite: 1]@gmail.com)** or **[LinkedIn](https://linkedin.com/in/ahfaisal122)**
+- 💬 Ask me about **Data Modeling, SQL querying, Power BI & DAX, Snowflake, Alteryx, or Python for Data Analysis**
 - 📫 Feel free to reach out at **[hamzafaisal12@gmail.com](mailto:hamzafaisal12@gmail.com)** or **[LinkedIn](https://linkedin.com/in/ahfaisal122)**
