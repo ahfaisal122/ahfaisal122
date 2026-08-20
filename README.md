@@ -1,5 +1,5 @@
-p align="center">
-  <img src="./amir.svg" alt="Amir Banner" width="100%" />
+<p align="center">
+  <img src="./Amir.svg" alt="Amir Banner" width="100%" />
 </p>
 
 # Hi, I'm Amir
