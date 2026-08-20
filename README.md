@@ -12,3 +12,4 @@ p align="center">
 - 🌱 I'm currently expanding my focus into **Advanced Data Management, Distributed Systems, and AI-integrated analytics**
 - 🌟 I'm looking to collaborate on **open-source data tools, analytical dashboards, and data pipeline projects**
 - 💬 Ask me about **Data Modeling, SQL querying, Power BI & DAX, Snowflake, Alteryx, or Python for Data Analysis**[cite: 1]@gmail.com)** or **[LinkedIn](https://linkedin.com/in/ahfaisal122)**
+- 📫 Feel free to reach out at **[md-amir-hamza.faisal@stud.uni-bamberg.de](mailto:md-amir-hamza.faisal@stud.uni-bamberg.de)**[cite: 1] or **[LinkedIn](https://linkedin.com/in/ahfaisal122)**[cite: 1]
