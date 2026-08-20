@@ -12,4 +12,4 @@
 - 🌱 I'm currently learning **Advanced Data Management, Distributed Systems, and AI-driven automation**
 - 🌟 I'm looking to collaborate on **open-source data tools and full-stack side projects**
 - 💬 Ask me about **Power BI, Snowflake, Alteryx, Python, or Web Development**
-- 📫 Feel free to reach out at **[md-amir-hamza.faisal@stud.uni-bamberg.de](mailto:md-amir-hamza.faisal@stud.uni-bamberg.de)** or **[LinkedIn](https://linkedin.com/in/ahfaisal122)**
+- 📫 Feel free to reach out at **[hamzafaisal12@gmail.com](mailto:hamzafaisal12@gmail.com)** or **[LinkedIn](https://linkedin.com/in/ahfaisal122)**
